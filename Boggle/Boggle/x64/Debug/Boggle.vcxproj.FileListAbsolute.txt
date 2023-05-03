@@ -1,0 +1,4 @@
+C:\Users\Jumana\Desktop\Boggle\Boggle\x64\Debug\Boggle.vcxproj.AssemblyReference.cache
+C:\Users\Jumana\Desktop\Boggle\Boggle\x64\Debug\Boggle.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Jumana\Desktop\Boggle\Boggle\x64\Debug\Boggle.MyForm.resources
+C:\Users\Jumana\Desktop\Boggle\Boggle\x64\Debug\Boggle.vcxproj.GenerateResource.cache
